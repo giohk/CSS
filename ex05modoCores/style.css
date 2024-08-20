@@ -1,0 +1,24 @@
+/* alterando cor por nome */
+.nome{
+    color: rgb(0, 75, 0);
+    background-color: #1fedbd;
+}
+/* alterando cor por hexadecimal */
+.hexadecimal{
+    color:#6c004b ;
+    background-color: #d05bad;
+}
+/* alterando cor por rgba */
+.rgba{
+    color: rgb(38, 35, 110);
+    background-color:rgba(41, 248, 255, 1); 
+}
+/* Alterando a segunda página */
+h1{
+    background-color: rgb(188, 171, 143);
+}
+.div-background{
+    background-image: url(images.png);
+    height:500px;
+    width:800px;
+}
