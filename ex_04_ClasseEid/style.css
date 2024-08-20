@@ -1,0 +1,18 @@
+
+/* Adicionando CSS */
+/* Com seletor 'TAG' */
+h1{
+    color: brown;
+    font-size: 15px;
+}
+p{
+    font-weight: bold;
+}
+/* Adicionando CSS */
+/* com seletor id */
+/* id NÃO pode ser compartilhado */
+/* pra usar id tem que usar # */
+#paragrafo2{
+    color: rgb(220, 9, 175);
+    font-weight: normal ;
+}
